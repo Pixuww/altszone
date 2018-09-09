@@ -1,0 +1,14 @@
+{
+  "name": "altszone",
+  "version": "1.0.0",
+  "description": "AltsZone",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Pixu",
+  "license": "ISC"
